@@ -1,0 +1,8 @@
+# Project Elixir Props
+PRODUCT_PROPERTY_OVERRIDES += \
+org.elixir.device.name=Poco F3 \
+ro.elixir.device.name=Poco F3 \
+ro.elixir.device=Alioth \
+ro.elixir.maintainer.username=NextWorksGFX \
+ro.elixir.group.url=https://t.me/Elixir_Discussion
+
