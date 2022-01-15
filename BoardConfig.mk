@@ -41,9 +41,6 @@ TARGET_RECOVERY_DEVICE_MODULES := init_xiaomi_alioth
 # Kernel
 TARGET_KERNEL_CONFIG := alioth_defconfig
 
-# OTA assert
-TARGET_OTA_ASSERT_DEVICE := alioth
-
 # Properties
 TARGET_VENDOR_PROP += $(DEVICE_PATH)/vendor.prop
 
